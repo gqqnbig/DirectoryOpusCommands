@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<usercommand backcol="none" hide_from_menu="no" textcol="none">
+	<label>TortoiseGit提交</label>
+	<icon1>/hostpictures/图标/Git-Icon-1788C.png,0</icon1>
+	<function type="normal">
+		<instruction>&quot;C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe&quot; /command:commit /path:{sourcepath} </instruction>
+	</function>
+</usercommand>
