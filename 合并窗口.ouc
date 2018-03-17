@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<usercommand backcol="none" hide_from_menu="no" textcol="none">
+	<label>合并窗口</label>
+	<icon1>/hostpictures/图标/merge.ico,0</icon1>
+	<function type="normal">
+		<instruction>Close ALLLISTERS=collapse,unique</instruction>
+	</function>
+</usercommand>
